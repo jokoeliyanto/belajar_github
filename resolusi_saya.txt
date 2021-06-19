@@ -1,0 +1,6 @@
+Target Juni 2021:
+1. Membuat 5 Project Portofolio Data Engineer
+2. Menyelesaikan Buku Data Sains Dasar menggunakan Python & R
+3. Menyelesaikan Materi PSDS Kelas Dasar 
+4. Menyelesaikan Materi PSDS Kelas Mahir
+5. Rekapitulasi Presensi & Nilai PSDS Kelas Dasar dan Mahir
