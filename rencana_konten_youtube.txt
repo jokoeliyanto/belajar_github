@@ -1,5 +1,6 @@
 Rencana Konten:
 1. Video tentang Machine Learning From Scratch Bahasa Indonesia Menggunakan Python
 2. Video tentang Machine Learning Meneggunakan Scikit Learn
-3. Video projek Data Sains yang VIRAL
-4. Video tutorial Airflow
+3. Video tutorial TensorFlow 
+4. Video projek Data Sains yang VIRAL
+5. Video tutorial Airflow
