@@ -1,2 +1,3 @@
 Rencana Konten:
 1. Video tentang Machine Learning From Scratch Bahasa Indonesia Menggunakan Python
+2. Video tentang Machine Learning Meneggunakan Scikit Learn
