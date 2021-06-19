@@ -4,3 +4,5 @@ Target Juni 2021:
 3. Menyelesaikan Materi PSDS Kelas Dasar 
 4. Menyelesaikan Materi PSDS Kelas Mahir
 5. Rekapitulasi Presensi & Nilai PSDS Kelas Dasar dan Mahir
+7. Menyelesaiakn Source Code Fuzzy SVM
+8. Menyelesaikan Source Code Outlier Analysis dengan K-Means
